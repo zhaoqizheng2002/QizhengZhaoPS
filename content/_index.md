@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: nasa_orion_nebula.jpg
+          filename: photo-1554110397-9bac083977c6.jpg
           filters:
             brightness: 1.0
           size: cover
