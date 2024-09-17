@@ -98,22 +98,22 @@ awards:
   - title: 'Second Prize, Guangdong Provincial Competition (Undergraduate Group) for Statistical Modeling of National College Students'
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023'
-    awarder: 'National College Students Statistical Modeling Competition'
-    icon: 'fas fa-award'  # 使用 Font Awesome 的奖项图标
+    awarder: Coursera
+    icon: coursera
     summary: |
       Received the second prize in the Guangdong Provincial Competition for Statistical Modeling (Undergraduate Group) in 2023.
   - title: 'Outstanding Project of Innovation and Entrepreneurship Training Program for College Students'
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023'
-    awarder: 'Sun Yat-sen University'
-    icon: 'fas fa-trophy'  # 使用 Font Awesome 的奖杯图标
+    awarder: Coursera
+    icon: coursera
     summary: |
       Recognized for outstanding performance in the 2023 Innovation and Entrepreneurship Training Program.
   - title: 'Outstanding Project of Innovation and Entrepreneurship Training Program for College Students'
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2022'
-    awarder: 'Sun Yat-sen University'
-    icon: 'fas fa-trophy'  # 使用相同的奖杯图标
+    awarder: Coursera
+    icon: coursera
     summary: |
       Recognized for outstanding performance in the 2022 Innovation and Entrepreneurship Training Program.
 ---
