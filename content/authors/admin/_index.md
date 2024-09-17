@@ -102,7 +102,6 @@ awards:
     icon: 'fas fa-award'  # 使用 Font Awesome 的奖项图标
     summary: |
       Received the second prize in the Guangdong Provincial Competition for Statistical Modeling (Undergraduate Group) in 2023.
-
   - title: 'Outstanding Project of Innovation and Entrepreneurship Training Program for College Students'
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023'
@@ -110,7 +109,6 @@ awards:
     icon: 'fas fa-trophy'  # 使用 Font Awesome 的奖杯图标
     summary: |
       Recognized for outstanding performance in the 2023 Innovation and Entrepreneurship Training Program.
-
   - title: 'Outstanding Project of Innovation and Entrepreneurship Training Program for College Students'
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2022'
