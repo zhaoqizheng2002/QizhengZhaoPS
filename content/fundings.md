@@ -1,10 +1,7 @@
 ---
 title: "Fundings"
 date: 2023-10-24
-type: page
-menu:
-  main:
-    weight: 30  # Adjust the weight to control the menu order
+type: landing
 ---
 
 ### Fundings
