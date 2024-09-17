@@ -16,4 +16,9 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+    menu:
+  - name: Fundings
+    url: fundings/
+    weight: 30
+
 
